@@ -1,4 +1,4 @@
 # omesh-demo
 This is my first Git Repository
 <br>
-Author- Omesh Barman
+Author- Omesh
